@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vipul1705
-- 👀 I’m interested in Software Development , Web Development and Application Development.
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in Software Development , Web Development And Full MERN Stack Development.
+- 🌱 I’m currently working Professional as Full Stack Developer.
 - 📫 You can reach me on on Linkedin- https://www.linkedin.com/in/vipul-patil-sde/ ,Facebook - Vipul Patil ,Instagram- @vipee1705
 
 <!---
